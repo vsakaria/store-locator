@@ -1,4 +1,4 @@
-# Sainsbury's Store Locator by Vishal Sakaria
+# Store Locator by Vishal Sakaria
 
 First of all apologies for not submitting a read me before hand, I was eager to submit the test to you in a timely fashion. I did download the run the normal instructions from the dropbox link I provided and all worked fine.
 
