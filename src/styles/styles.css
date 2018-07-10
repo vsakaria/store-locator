@@ -1,0 +1,111 @@
+.main {
+  padding: 0;
+  height: 1630px;
+}
+
+.search-container {
+  padding: 20px;
+}
+
+.search-box {
+  height: 60px;
+  font-size: 30px;
+  color: #8e8e8e;
+  border: 2px solid #8e8e8e;
+}
+
+.sub-label {
+  font-size: 30px;
+  margin-bottom: 40px;
+}
+
+.search-container label {
+  font-size: 50px;
+}
+
+.search-container button {
+  background-color: #e1722d;
+  height: 60px;
+  width: 60px;
+  margin-left: 20px;
+}
+
+.search-info {
+  height: 100px;
+  font-size: 30px;
+  padding: 30px;
+  background-color: #d3d3d3;
+}
+
+.card {
+  height: 300px;
+  padding-top: 30px;
+  border-bottom: 1px solid rgb(121, 120, 120);
+}
+
+.contact {
+  padding-left: 85px;
+}
+
+.card div {
+  font-size: 20px;
+}
+
+.store-name {
+  display: block;
+  font-size: 26px;
+  color: #000;
+  font-weight: bold;
+}
+
+.store-name:hover {
+  text-decoration: underline;
+}
+
+.address {
+  padding-top: 10px;
+}
+
+.telephone {
+  margin-bottom: 20px;
+}
+
+.heading {
+  font-weight: bold;
+}
+
+.opening {
+  margin-bottom: 20px;
+}
+
+.extra-details {
+  padding-right: 40px;
+  text-align: right;
+}
+
+.stand-out-text {
+  font-size: 20px;
+  font-weight: bold;
+  color: #ef6911;
+}
+
+.capitalise-first-letter {
+  display: inline-block;
+}
+
+.capitalise-first-letter:first-letter {
+  text-transform: capitalize;
+}
+
+.high-contrast-mode {
+  background-color: black;
+  color: #fff;
+}
+
+.high-contrast-mode .search-info {
+  background-color: #000;
+}
+
+.high-contrast-mode .store-name {
+  color: #fff;
+}
